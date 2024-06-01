@@ -1,0 +1,12 @@
+{
+  "name": "File_Management_System",
+  "version": "1.0.0",
+  "description": "Backend for File Management System , Assigmnet 2 of clebal Node.js week 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dhruv Patel",
+  "license": "MIT"
+}
